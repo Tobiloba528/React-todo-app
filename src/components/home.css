@@ -1,0 +1,45 @@
+
+#home{
+    width: 60%;
+    margin: 40px auto;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid rgb(74, 100, 95);
+    border-radius: 5px; 
+}
+
+#header{
+    padding: 20px 10px;
+    background: rgb(84, 117, 113);
+}
+
+input{
+    width: 60%;
+}
+
+#list{
+    padding: 40px 40px; 
+    background: rgb(20, 20, 20);
+    color: rgb(188, 248, 228)
+}
+
+#list ul li{
+    list-style: none;
+    margin-bottom: 40px; 
+    border-left: 2px solid green;
+    font-size: 20px;
+}
+
+#list ul li:hover{
+    border-left: 3px solid rgb(60, 109, 109);
+    background: rgb(156, 189, 183);
+    color: black
+}
+
+form input{
+    width: 60%;
+}
+
+form{
+    padding: 40px 0;
+}
+
